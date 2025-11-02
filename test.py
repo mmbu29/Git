@@ -1,2 +1,2 @@
 # This is a print statement
-print("Goodbye, world")
+print("Goodbye friend")
